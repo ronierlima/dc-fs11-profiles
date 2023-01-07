@@ -1,6 +1,6 @@
 ```json
 {
   "username": "luannpl",
-  "name": "Paulo Luan"
+  "name": "Paulo Luann"
 }
 ```
